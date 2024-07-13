@@ -208,6 +208,7 @@ class TesteNumeroAleatorio {
                 }
             }
             System.out.println("\nObrigado por jogar!\n");
+
         }
 
 
